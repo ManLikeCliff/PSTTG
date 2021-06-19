@@ -13,12 +13,12 @@ ___
 ___
 ### Usage:
 ```sh
-python3 psttg.py
+python3.8.5 psttg.py
 ```
 
 ___
 ### Screenshot
-(https://imgur.com/a/hFjvTvh.png)
+![PSTTG](https://user-images.githubusercontent.com/72477432/122656186-37e0cb80-d150-11eb-8035-3b190fbf4e8d.png)
 
 ___
 ### Config file
